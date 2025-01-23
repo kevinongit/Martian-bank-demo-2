@@ -1,4 +1,4 @@
-# Forked from CISCI Martian Bank Demo
+# Forked from CISCO Martian Bank Demo
 Martian Bank (https://github.com/cisco-open/martian-bank-demo)
 
 # MARTIAN BANK
